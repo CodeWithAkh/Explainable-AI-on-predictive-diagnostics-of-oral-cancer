@@ -1,0 +1,2 @@
+# Explainable-AI-on-predictive-diagnostics-of-oral-cancer
+Oral cancer is a major global health challenge where early detection is crucial for saving lives. This research uses deep learning with CNN and an optimized CNN+VGG16 model, achieving accuracies of 96% for histopathological images. Explainable AI provide visual insights into predictions, ensuring transparency, making the system for early diagnosis.
